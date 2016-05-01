@@ -1,4 +1,4 @@
-**Description:**
+**Description**
 
 The goal of this project is to develop a model to help movie theaters estimate the   
 opening gross profit for high budget movies.      
@@ -33,10 +33,10 @@ Dependent:
 * opening gross profit per theater (opening gross / opening theaters)
 
 
-**Method**
+**Method**  
 Ordinary least square regression  
 
-**Tools**
+**Tools**  
 python (Beautiful soup for scraping).  
 pandas (data cleaning and analysis)  
 numpy  
@@ -45,7 +45,24 @@ statsmodel
 **Model**  
 <img src="ols_model_1.png">  
 <img src="ols_model_2.png">  
+<img src="residual.png">
   
+
+**Validation**
+This project includes model validation using out of sample data (2015).  
+<img src="prediction.png">  
+
+**Conclusion**
+The validation process helps notice that the model needs some modifications in order  
+to more accurately estimate opening gross profits per theater.  
+Major studios market movies before release to generate expectation and attract viewers.  
+Therefore, marketing budget might be a independent variable to consider adding to the  
+model.  In reality, movie theaters need to decide a few weeks before release if they plan  
+to play the movie.  This information might be hard to obtain from studios.  
+Another independent variable that might help the model accuracy can be the # of trailer  
+views.   
+
+
 
 
 
