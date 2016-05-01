@@ -1,8 +1,9 @@
 # predicting_theaters_opening_gross
 
-Predicting movie theaters opening gross
+Predicting movie theaters opening gross using a linear regression model
 
-Presentation:
+For presentation, please see link below:
 
 
-Write Up
+For for more detail description of the project, please see link below:
+
