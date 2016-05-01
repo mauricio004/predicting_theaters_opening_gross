@@ -48,11 +48,11 @@ statsmodel
 <img src="residual.png">
   
 
-**Validation**
+**Validation**  
 This project includes model validation using out of sample data (2015).  
 <img src="prediction.png">  
 
-**Conclusion**
+**Conclusion**  
 The validation process helps notice that the model needs some modifications in order  
 to more accurately estimate opening gross profits per theater.  
 Major studios market movies before release to generate expectation and attract viewers.  
