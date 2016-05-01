@@ -45,12 +45,13 @@ statsmodel
 **Model**  
 <img src="ols_model_1.png">  
 <img src="ols_model_2.png">  
+Residual plot  
 <img src="residual.png">
   
 
 **Validation**  
 This project includes model validation using out of sample data (2015).  
-Residual plot  
+
 <img src="prediction.png">  
 
 **Conclusion**  
