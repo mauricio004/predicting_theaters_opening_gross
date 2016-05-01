@@ -50,6 +50,7 @@ statsmodel
 
 **Validation**  
 This project includes model validation using out of sample data (2015).  
+Residual plot  
 <img src="prediction.png">  
 
 **Conclusion**  
